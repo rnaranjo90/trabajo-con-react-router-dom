@@ -1,0 +1,33 @@
+.error{
+    font-size: 3em;
+    background-color: tomato;
+    text-align: center;
+}
+
+nav{
+    display: flex;
+    margin-bottom: 30px;
+    background-color: peru;
+    justify-content: space-evenly;
+}
+
+a{
+    text-decoration: none;
+    font-size: 1.5em;
+    padding: 7px 10px 12px;
+    color: black;
+}
+
+.pinchado{
+    background-color: black;
+    color: brown;
+}
+
+div{
+    text-align: center;
+}
+
+.reyes img{
+    width: 25%;
+    margin-bottom: 25px;
+}
